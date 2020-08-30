@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>
+             Foodplace
+        </title>
+        <link rel="stylesheet" href="project2.css">
+    </head>
+    <body>
+        <header>
+            <div class="head">
+               
+                <h2>Food Place</h2>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#" class="active">About</a></li>
+                    <li><a href="#" class="active">Menu</a></li>
+                    <li><a href="#" class="active">Contact</a></li>
+                    <li><a href="#" class="active">Help</a></li>
+                </ul>
+            </nav>
+        </header>
+        <showcase>
+            <div class="Container">
+                <h1>Food Served with Love</h1>
+                <div class="category">
+                    <div class="masaladose">
+                        <img src="https://static.toiimg.com/thumb/54289752.cms?imgsize=495844&width=800&height=800" alt="dose">
+                        <h4>Masala dose</h4>
+                        <p>
+                            Masala Dose is a variation of the popular South Indian food dosa, which has its origins in Tuluva Mangalorean cuisine of Karnataka. It is made from rice, lentils, potato, methi, and curry leaves, and served with chutneys and sambar.
+                        </p>
+                    </div>
+                    <div class="biryani">
+                        <img src="https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe-500x500.jpg" alt="biryani">
+                        <h4>Chicken Biryani</h4>
+                        <p>
+                            Biryani is a mixed rice dish with its origins among Indians. It can be compared to mixing a curry, later combining it with semi-cooked rice separately.
+                        </p>
+                    </div>
+                    <div class="panipuri">
+                        <img src="https://secureservercdn.net/104.238.69.231/db4.60a.myftpupload.com/wp-content/uploads/2015/03/Pani-Puri-H2-WP-WT-S.jpg" alt="panipuri">
+                        <h4>Pani Puri</h4>
+                        <p>
+                            Pani Puri is one of India's most common street foods. It consists of a round or ball-shaped, hollow puri, filled with a mixture of flavored water, tamarind chutney, chili, chaat masala, potato, onion or chickpeas.
+                        </p>
+
+                    </div>
+                    <div class="jamun">
+                        <img src="https://www.easycookingwithmolly.com/wp-content/uploads/2020/04/instant-bread-gulab-jamun-recipe-480x480.jpg" alt="Gulab jamun">
+                        <h4>Gulab jamun</h4>
+                        <p>
+                            Gulab jamun is a milk-solid-based sweet from the Indian subcontinent, and a type of mithai, popular in India.It is made mainly from milk solids, traditionally from khoya, which is milk reduced to the consistency of a soft dough. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </showcase>
+        <a href="#"><button class="btn">Order</button></a>
+
+    </body>
+</html>
